@@ -10,5 +10,6 @@ Students will analyze the dataset to gain insights into transaction patterns
 and potential factors distinguishing fraudulent transactions from legitimate
 ones.
 ## Dataset Details:
-Dataset Name: Credit Card Fraud Detection Dataset
+Dataset Name: Credit Card Fraud Detection Dataset;
 Source: Kaggle -https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
